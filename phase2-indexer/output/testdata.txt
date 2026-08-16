@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1</DOCNO>
+<TEXT>
+The system works well.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>2</DOCNO>
+<TEXT>
+He is working on a problem for his exam.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>3</DOCNO>
+<TEXT>
+He has a lot of work to do for his several upcoming exams.
+</TEXT>
+</DOC>
