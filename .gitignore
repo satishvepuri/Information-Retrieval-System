@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.out
+parser
+indexer
+retrieval
+final
+
+# Local document corpus / course data
+ft911/
+
+# IDE / OS files
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+cmake-build-*/
